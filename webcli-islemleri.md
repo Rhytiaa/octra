@@ -144,10 +144,10 @@ chmod +x setup.sh
 ```bash
 screen -r ngrok
 ```
-- CTRL C yapın kapansın.
+- CTRL C yapın kapansın
 
 ```bash
 exit
 ```
 
-- Komutu ilede screeni kapatabilirsiniz.
+- Komutu ilede screeni kapatabilirsiniz
